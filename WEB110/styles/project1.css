@@ -1,0 +1,30 @@
+body {
+  margin: 30px;
+  font-family: courier;
+  background-color: #FFE6EE;
+}
+h1, h2, h3 {
+	background-color: #FFB6C1;
+	color: #808080;
+	padding-top: 20px;
+    padding-bottom: 20px;
+	text-align: center;
+}
+ul {
+	background-color: #FFE6EE;
+	color: #808080;
+} 
+figure {
+	text-align: center;
+}
+footer {
+	text-align: center; 
+}
+footer img {
+	width: 88px;
+	height: auto;
+}
+main img {
+	width:75%;
+	height: auto;
+}

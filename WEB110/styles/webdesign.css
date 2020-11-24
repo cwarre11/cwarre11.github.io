@@ -1,0 +1,35 @@
+body {
+  margin: 30px;
+  font-family: courier;
+  background-color: #FFE6EE;
+  color: #808080;
+}
+h1, h2, h3 {
+	background-color: #FFB6C1;
+	color: #808080;
+	padding-top: 20px;
+    padding-bottom: 20px;
+	text-align: center;
+}
+footer {
+	text-align: center;	
+}
+footer img {
+	width: 88px;
+	height: auto;
+}
+a:link {
+  color: hotpink;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: orange;
+}
+
+a:active {
+  color: white;
+}
